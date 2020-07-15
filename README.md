@@ -12,4 +12,4 @@ python main.py
 ```
 
 #### Result:
-visualization of the terrain data and its boundary.
+`test.png` as a visualization of the terrain data and its boundary.
